@@ -7,7 +7,8 @@
 
 ##### Getting Started
 ###### Prerequisits
-- Script can run on any environment, though its good practice to create a Python virtual environment and than start working
+Script can run on any environment, though its good practice to create a Python virtual environment and than start working.
+There are no packages required for the current program thats why requirements.txt is empty.
 
 ##### Download the script
 ```
