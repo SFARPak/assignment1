@@ -23,15 +23,11 @@ python -m venv venv
 ```
 source venv/Scripts/activate
 ```
+
 ##### Activate Virtual Environment (Windows)
 ```
 .\venv\Scripts\activate
 ```
-##### Run
-```
-python assignment1.py
-```
-
 
 #### Execute the script
 ```
